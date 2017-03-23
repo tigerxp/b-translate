@@ -486,7 +486,6 @@ achievement.botania:manaBombIgnite=Under of Fragments
 achievement.botania:manaBombIgnite.desc=Craft a Manastorm Charge, ignite it on a far away place
 achievement.botania:dandelifeonPickup=Donut Hole
 achievement.botania:dandelifeonPickup.desc=Create a Dandelifeon and challenge your mind with it
-
 achievement.botania:signalFlareStun=Увидеть огни
 achievement.botania:signalFlareStun.desc=Stun 100 or more mobs at once with a Signal Flare
 achievement.botania:l20ShardUse=Out of Step
@@ -3317,7 +3316,7 @@ botania.page.aIntro7=Добавьте &1Бассейны маны&0
 # -- A MESSAGE FROM ELVEN GARDE=
 botania.entry.elfMessage=Письмо из Эльфийского сада
 botania.tagline.elfMessage=Definitely a message. Yup
-botania.page.elfMessage0=
+botania.page.elfMessage0= 
 # ^ This is blank on purpose=
 botania.page.elfMessage1=&oПоздравляем. Мы заметили, что наш портал открыл связь с другим миром. И это действительно, довольно шокирующая новость. Мы благодарим Вас за предоставление нам книги знаний вашего мира, чтобы держать нас в курсе всего, что произошло, так как мы оставили этот мир, давным-давно.
 botania.page.elfMessage2=&oПосле некоторых дискуссий с верховным консулом Эльфийских садов, мы решили объединить усилия. Прочитав Вашу "Лексику Botania" мы обнаружили наличие большого количества ресурсов в вашем мире, которые мы чрезвычайно заинтересованы получить в свои руки, так как они не существуют на наших землях.
